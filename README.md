@@ -4,7 +4,9 @@
 
 #### Instruction: Append your organization entity link to visit your beta release portal. A note for the administrators: make sure to share the links for the beta channel with authrized personnel only.
 
-<hr></hr>
+### Contact: [Beta Channel Support Email](mailto:betasupport.swastiknathgroup@airmailhub.com) &nbsp; [Development Discord](https://discord.com/SwastikN#7891)
+
+<hr>
 Copyright 2021 SwastikNath Group Holdings
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
